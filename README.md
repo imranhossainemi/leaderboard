@@ -67,8 +67,8 @@ For this projec design I am using form to create localstorage data and class obj
 
 ### Key Features <a name="key-features"></a>
 
-- **[CRUD to do list ]**
-  > Create Read Update & Delete To Do List item.
+- **[API Leaderboard ]**
+  > Create Read API item.
   <!--
   - **[key_feature_2]**
   - **[key_feature_3]** -->
@@ -81,7 +81,7 @@ For this projec design I am using form to create localstorage data and class obj
 
 > You can live demo form here.
 
--
+- No live setup yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,6 +90,7 @@ For this projec design I am using form to create localstorage data and class obj
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > For using this porject simple colne this repo and run it in your local computer.
+> https://github.com/imranhossainemi/leaderboard.git
 
 In order to run this project you need: 1. A computer 2. A internet Browser. 3. Clone git :
 4.open index.html with your browser or text eidtor
