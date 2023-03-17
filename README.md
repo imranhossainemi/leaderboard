@@ -134,10 +134,11 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
-<!--
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-</a> -->
+I would like to thank Microverse and all my coding partners.
+</a>
 
 <!-- LICENSE -->
 
