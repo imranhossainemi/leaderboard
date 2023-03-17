@@ -1,6 +1,6 @@
 import './style.css';
 
-const gameID = 'mnHvUZAg6OidlpkQBftf';
+const gameID = 'Zl4d7IVkemOTTVg2fUdz';
 const addScoreURL = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameID}/scores/`;
 const refresh = document.querySelector('.refresh');
 
